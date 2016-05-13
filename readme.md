@@ -1,9 +1,4 @@
----
-title: 嘉利创SMT可用物料清单 
-tags: PCB打样,SMT
-grammar_cjkRuby: true
----
-
+嘉利创SMT可用物料清单 
 ----------
 
 [链接地址][1]
